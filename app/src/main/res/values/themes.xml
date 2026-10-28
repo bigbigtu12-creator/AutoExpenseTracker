@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.AutoExpenseTracker" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#362217</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- 记账确认对话框 Activity 主题 -->
+    <style name="Theme.ExpenseConfirmDialog" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>

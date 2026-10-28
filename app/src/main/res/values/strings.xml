@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">自动记账</string>
+    <string name="notification_listener_label">自动记账-通知监听</string>
+    <string name="accessibility_service_label">自动记账-无障碍服务</string>
+    <string name="settings_title">设置</string>
+    <string name="webhook_url_label">飞书 Webhook 地址</string>
+    <string name="webhook_url_hint">请输入飞书机器人 Webhook URL</string>
+    <string name="save">保存</string>
+    <string name="test">测试</string>
+    <string name="categories">分类管理</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="merchant_hint">商家/备注</string>
+    <string name="accessibility_service_description">自动记账无障碍服务：监听微信和支付宝的支付通知，自动弹出记账确认窗口。这是应用核心功能所必需的权限。</string>
+    <string name="widget_manual_entry_name">手动记账</string>
+    <string name="widget_manual_entry_title">手动记账</string>
+    <string name="widget_manual_entry_compact_title">记一笔</string>
+    <string name="widget_manual_entry_subtitle">点击添加一笔</string>
+    <string name="widget_manual_entry_description">从手机桌面快速打开手动记账</string>
+    <string name="widget_manual_entry_icon_description">记账小票图标</string>
+    <string name="widget_manual_payment_method">手动记账</string>
+</resources>

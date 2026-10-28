@@ -1,0 +1,26 @@
+# Android Studio and local SDK configuration
+.idea/
+.gradle/
+local.properties
+*.iml
+
+# Build outputs and signing material
+**/build/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p12
+*.pem
+key.properties
+
+# Local caches, logs, and temporary work
+.tmp-*/
+*.log
+*.hprof
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Design drafts and device captures are reviewed separately before publication
+design-concepts/
